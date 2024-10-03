@@ -1,5 +1,3 @@
 package modules
 
-type fileAttachment struct {
-	Attachment string
-}
+type FileAttachment struct{}

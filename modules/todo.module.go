@@ -1,4 +1,3 @@
 package modules
 
-type Todo struct {
-}
+type Todo struct {}

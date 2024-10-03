@@ -1,4 +1,3 @@
 package modules
 
-type CommentOnTodo struct {
-}
+type CommentOnTodo struct{}

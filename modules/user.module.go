@@ -1,4 +1,3 @@
 package modules
 
-type User struct {
-}
+type User struct{}

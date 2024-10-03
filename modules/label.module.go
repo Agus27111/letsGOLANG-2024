@@ -1,4 +1,3 @@
 package modules
 
-type Label struct {
-}
+type Label struct {}
